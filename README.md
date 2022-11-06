@@ -1,3 +1,4 @@
+https://www.patika.dev/tr
 # [16,21,11,8,12,22] >> Merge Sort Projesi 2  
  - [16,21,11,8,12,22] Yapı ikiye bölünür.
  -   [16,21,11]               [8,12,22]        Tekrar bölüyoruz
